@@ -1,7 +1,44 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<!-- Title -->
+<h1 align="center">
+   The Box Game
+</h1>
 
-## Recommended IDE Setup
+<!-- Header -->
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<p align="center">
+  <b>Test task using Vue3</b>
+  <br />
+</p>
+
+<!-- Body -->
+Clone the repository using the command:
+```sh
+git clone https://github.com/AntonMartynes/aiviaTask
+```
+
+Go to the project directory using the command:
+```sh
+cd aiviaTask
+```
+## Running  Vue application
+
+Install the dependencies using the command: 
+```sh
+npm install
+```
+Start Vue application
+```sh
+npm run dev
+```
+## Technologies used
+The project uses the following technologies:
+ - Vue3
+ - Vuelidate
+ - Vue-router
+ - Vuetify3
+ - Vite
+ - HTML
+ - CSS/SASS
+ - JavaScript
+ - Flexbox
