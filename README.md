@@ -12,6 +12,8 @@
 </p>
 
 <!-- Body -->
+You can view the project by following the [link](https://antonmartynes.github.io/aiviaTask/) or by following these instructions
+
 Clone the repository using the command:
 ```sh
 git clone https://github.com/AntonMartynes/aiviaTask
